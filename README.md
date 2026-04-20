@@ -183,6 +183,18 @@ Commercial licensing and support help fund ongoing CUDA, GPU, and simulation res
 
 The long-term direction for dj-cuda-samples is to grow from small, focused CUDA demonstrations into a broader ecosystem of high-performance GPU tools and experiments. Upcoming samples will highlight both foundational CUDA techniques and more advanced topics such as molecular simulation, procedural generation, and distributed GPU compute.
 
+## Conceptual Interface Exploration (Illustrative)
+
+The image below is an **early-stage conceptual mockup** exploring what a future
+interactive interface *could* look like for GPU-accelerated molecular simulation
+work related to longevity and age-related disease research.
+
+This is **not** a product UI and **not** a scientifically accurate protein visualization. It is illustrative only, intended to communicate possible interaction and visualization ideas alongside the underlying CUDA work.
+
+Actual simulations in this repository are currently driven via code and command-line tools.
+
+[![Concept - Molecular](https://davidjoffe.github.io/media/concept-mockup-longevity-molecular-sim.png)](https://davidjoffe.github.io/research/)
+
 ## Vision
 
 The goal of this project is to create GPU-accelerated building blocks that can scale into genuinely meaningful, high-impact applications. Beyond graphics and gamedev, GPUs today underpin important work in:
@@ -195,3 +207,4 @@ The goal of this project is to create GPU-accelerated building blocks that can s
 My intention is to grow dj-cuda-samples into a foundation from which more ambitious tools can emerge — systems that help move humanity forward.
 
 I’m also open to working with organizations or individuals who share these goals, whether through collaboration, sponsorship, consulting, or applied research partnerships.
+
