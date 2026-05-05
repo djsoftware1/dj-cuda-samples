@@ -1,3 +1,5 @@
+# dj-cuda-samples — https://github.com/davidjoffe/dj-cuda-samples
+# (c) David Joffe / DJ Software 2025-2026 - Business Source License (BSL 1.1). See LICENSE
 cmake_minimum_required(VERSION 3.18)
 
 project(dj_cuda_samples LANGUAGES C CXX)
